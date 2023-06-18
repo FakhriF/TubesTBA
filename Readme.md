@@ -12,7 +12,7 @@ Berikut step by step menjalankan program:
 == Windows App Based (GUI) ==
 1. Pastikan sudah menggunakan Windows 10 21H2 atau lebih tinggi
 2. Silahkan buka folder "windows-app"
-3. Jalankan TBA.exe
+3. Jalankan "Tubes TBA App.exe"
 
 == ANGGOTA KELOMPOK ==
 - Fakhri Fadillah Rahman - 1301210386
